@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STool", "STool.csproj", "{F4F8F913-DB85-4399-9B36-6E3785B4F856}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUpScaltor", "..\SetUpScaltor\SetUpScaltor.vdproj", "{8A559860-95F3-48F7-A840-8E9E36AB4DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F8F913-DB85-4399-9B36-6E3785B4F856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F8F913-DB85-4399-9B36-6E3785B4F856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F8F913-DB85-4399-9B36-6E3785B4F856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F8F913-DB85-4399-9B36-6E3785B4F856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A559860-95F3-48F7-A840-8E9E36AB4DFD}.Debug|Any CPU.ActiveCfg = Debug
+		{8A559860-95F3-48F7-A840-8E9E36AB4DFD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BE1D7D-5E23-46F3-ADA6-6B4134AF30FC}
+	EndGlobalSection
+EndGlobal

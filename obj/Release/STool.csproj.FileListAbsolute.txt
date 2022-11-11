@@ -1,0 +1,11 @@
+C:\Community files\Download\WinformApp\STool\bin\Release\STool.exe.config
+C:\Community files\Download\WinformApp\STool\bin\Release\STool.exe
+C:\Community files\Download\WinformApp\STool\bin\Release\STool.pdb
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.Form1.resources
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.Properties.Resources.resources
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.csproj.GenerateResource.cache
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.csproj.CoreCompileInputs.cache
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.exe
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.pdb
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.csproj.AssemblyReference.cache
+C:\Community files\Download\WinformApp\STool\obj\Release\STool.csproj.SuggestedBindingRedirects.cache
